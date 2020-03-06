@@ -1,7 +1,7 @@
 # HoloViews | Machine Learning & Data Science Open-source Spotlight #7
 [![HoloViews](https://img.youtube.com/vi/ZnyF9p8CYkY/0.jpg)](https://www.youtube.com/watch?v=ZnyF9p8CYkY "HoloViews")
 
-Question: What's the simplest way to make high quality plots in Python?
+Question: What's the simplest way to make high quality plots in Python? <br>
 Answer: 👉 HoloViews! 👈
 
 " HoloViews is an open-source Python library designed to make data analysis and visualization seamless and simple. With HoloViews, you can usually express what you want to do in very few lines of code, letting you focus on what you are trying to explore and convey, not on the process of plotting. "
