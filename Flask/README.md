@@ -13,3 +13,6 @@ This is a great package to learn how to make RESTful APIs with Python and experi
 In the following weeks I'll post a series of videos regarding ML model deployment, with gradual increasing complexity. 
 In this first video tutorial I show how to deploy a text sentiment analysis model in a simple Flask web app, allowing you to type free text to be analyzed by the model.
 This app will be developed and hosted locally, and the focus of the next video will be on how to host it on a remote server.
+
+Link to necessary (too big to host here) files to run this demo:
+https://drive.google.com/open?id=1qwDtJExDOxhhiujn0tFxaCaiuV3WBj5Q
